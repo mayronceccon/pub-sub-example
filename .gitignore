@@ -1,0 +1,7 @@
+/.venv/
+/node_modules/
+/vendor/
+yarn.lock
+composer.lock
+package-lock.json
+/files/file*
